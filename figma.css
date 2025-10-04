@@ -16,28 +16,32 @@ p{
     font-family: 'Be Vietnam Pro' sans-serif;
 }
 .font{
-
     font-family: 'Lora', sans-serif;
 }
 .container{
     background-color: #FFFFFF;
     width: 100%;
 }
-.left{
-    margin-left: 60px;
-}
-.right{
-    margin-right: 60px;
-}    
+
    
 
 
 header{
     width: 100%;
-    height: 100px;
+    height: 60px;
+    padding-top:20px ;
+    padding-bottom: 20px;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.header1{
+    display: flex;
+    justify-content: space-around;
+    gap: 36px;
+    margin-left: 50px;
+    margin-right: 50px;
+    align-items: center;
 }
 .headleft{
     width: 200px;
@@ -46,7 +50,7 @@ header{
     display: flex;
     justify-content: center;
     align-items:center;
-    margin-left: 50px;
+    
     border: 1px ;
     border-radius: 8px;
 }
@@ -59,8 +63,6 @@ header{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-left: 40px;
-    margin-right: 40px;
 }
 .headright{
     width: 120px;
@@ -68,7 +70,7 @@ header{
     border: 1px;
     border-radius: 8px;
     background-color: #E2E2E2;
-    margin-right: 50px;
+    
     display: flex;
     justify-content: center;
     align-items: center;
@@ -83,7 +85,9 @@ header{
     margin: 0;
     padding: 0;
     width: 100%;
-    height:680px;
+    height:560px;
+    padding-top: 60px;
+    padding-bottom: 60px;
     background-color: #F1F1F1;
     display: flex;
     justify-content: center;
@@ -96,8 +100,8 @@ header{
     border: 1px;
     border-radius: 8px;
     background-color: #E2E2E2;
-    margin-right: 20px;
-    margin-left:60px ;
+    margin-right: 26.797px;
+    margin-left:26.797px ;
 }
 .div4{
     width: 585px;
@@ -112,11 +116,13 @@ header{
     margin: 0;
     padding: 0;
     width:100% ;
-    height:1169px ;
+    height:1049px ;
     border: 1px;
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 .div6{
     width: 600px;
@@ -124,10 +130,10 @@ header{
     border: 1px;
     border-radius: 8px;
     background-color: #E2E2E2;
-    margin: 80px 60px 45px 60px;
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-bottom: 30px;
 }
 .div7{
     width: 100%;
@@ -148,11 +154,13 @@ header{
 }
 .div10{
     width: 100%;
-    height: 580px;
+    height: 460px;
     background-color: #F1F1F1;
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 .div11{
     height: 300px;
@@ -179,6 +187,8 @@ header{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 .div14{
     height: 300px;
