@@ -142,11 +142,13 @@ header{
     margin :0 auto;
 }
 .div69{
+    width: 100%;
     align-items: center;
     justify-content: center;
 
 }
 .div9{
+    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;
