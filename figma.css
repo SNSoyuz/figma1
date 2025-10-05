@@ -22,7 +22,12 @@ p{
     background-color: #FFFFFF;
     width: 100%;
 }
-   
+.left{
+    margin-left: 20px;
+}
+.right{
+    margin-right: 20px;
+}
 
    
 
@@ -136,11 +141,10 @@ header{
     justify-content: center;
     margin :0 auto;
 }
-.di69{
-    width: 100%;
-    display: flex;
+.div69{
     align-items: center;
     justify-content: center;
+
 }
 .div9{
     display: flex;
