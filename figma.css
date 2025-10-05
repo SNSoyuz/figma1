@@ -22,12 +22,7 @@ p{
     background-color: #FFFFFF;
     width: 100%;
 }
-.left{
-    margin-left: auto;
-}
-.right{
-    margin-right: auto;
-}    
+   
 
    
 
@@ -139,6 +134,20 @@ header{
     padding-top: 60px;
     padding-bottom: 60px;
     justify-content: center;
+    margin :0 auto;
+}
+.di69{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.div9{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    max-width: 1615px;
 }
 .div6{
     width: 600px;
@@ -193,6 +202,7 @@ header{
     align-items: center;
     padding-top: 60px;
     padding-bottom: 60px;
+    margin:0 auto;
 }
 .div11{
     height: 300px;
@@ -214,6 +224,7 @@ header{
     margin: 0 auto;
     padding 0 auto;
     align-items: center;
+    padding 0 auto;
     
 }
 .div13{
@@ -224,6 +235,7 @@ header{
     align-items: center;
     padding-top: 60px;
     padding-bottom: 60px;
+    margin:0 auto;
 }
 .div14{
     height: 300px;
